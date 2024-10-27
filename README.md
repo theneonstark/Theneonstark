@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Mohd Shahid</h1>
+<h1 align="center">Hi 👋, I'm Mohad Shahid</h1>
 
 ###
 
