@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">A passionate Full stack developer from India.l</h3>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 ###
 
